@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "create-react-app": "^5.0.1"
-  }
+  },
+  "name": "react_playground",
+  "version": "1.0.0",
+  "description": "Playground for react",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodychang0611/react_playground.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Woody Chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woodychang0611/react_playground/issues"
+  },
+  "homepage": "https://github.com/woodychang0611/react_playground#readme"
 }
