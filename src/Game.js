@@ -119,7 +119,6 @@ class Game extends React.Component {
         <li key={move} >
           <div>
             <a onClick={() => this.jumpTo(move)}>{desc}</a>
-            <Board squares={step.squares}></Board>
           </div>
         </li>
       );
