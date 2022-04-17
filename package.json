@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "create-react-app": "^5.0.1",
-    "gitignore": "^0.7.0"
+    "create-react-app": "^5.0.1"
   }
 }
