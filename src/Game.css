@@ -1,0 +1,18 @@
+
+.square {
+    height: 10vmin;
+    width: 10vmin;
+    font-size: 50px;
+    float: left;
+    color:#282c34;
+    background-color:#61dafb;
+  }
+  
+  
+  .square:focus {
+    outline: none;
+  }
+
+  .history {
+    color: #61dafb;
+  }
