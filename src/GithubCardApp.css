@@ -1,0 +1,27 @@
+
+*{
+    font-size: 36px;
+}
+
+.GithubCardApp {
+    text-align: center;
+    background-color: purple;
+    padding:50pt;
+    color: white;
+  }
+
+
+.GithubCardList
+{
+    background-color: blueviolet;
+    padding:50pt;
+    color: black;
+}
+
+.GithubCard
+{
+    background-color: yellow;
+    padding:10pt;
+}
+
+
