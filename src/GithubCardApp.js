@@ -1,7 +1,5 @@
 import './GithubCardApp.css';
-import Game from './Game';
 import React from 'react';
-import { render } from '@testing-library/react';
 
    
 class InputForm extends React.Component {
